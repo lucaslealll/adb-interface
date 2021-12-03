@@ -2,6 +2,8 @@
 
 _**My first project developed with Java programming language.**_
 
+[Working Video - Youtube](https://youtu.be/zUuKocvuwJo)
+
 ![](assets/ApplicationLayout.png ) ![](assets/ApplicationLogs.png)
 
 ## About the project
